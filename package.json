@@ -1,0 +1,28 @@
+{
+  "name": "elevator",
+  "version": "1.0.0",
+  "description": "Elevator Saga =================== The elevator programming game",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arash",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arash-ash/elevatorsaga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arash-ash/elevatorsaga/issues"
+  },
+  "homepage": "https://github.com/arash-ash/elevatorsaga#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
