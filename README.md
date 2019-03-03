@@ -1,3 +1,3 @@
-Elevator Sime
+Elevator Sim
 ===================
 The elevator simulation game
